@@ -15,7 +15,7 @@ from PySide6.QtWidgets import (
     QScrollArea
 )
 from PySide6.QtGui import *
-#Borrar este mensaje" 
+#Borrar este mensaje  ssss" 
 a = open("EFI/data.json")
 s = a.read()
 
